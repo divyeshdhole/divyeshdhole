@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Development**
 
-- 👨‍💻 All of my projects are available at [https://divs-server.cf/?i=1](http://divs-server.cf/?i=1)
+- 👨‍💻 Visit my Portfolio website [https://divs-server.cf/?i=1](http://divs-server.cf/?i=1)
 
 - 💬 Ask me about **c++,python,Web scraping**
 
